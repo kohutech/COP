@@ -6,7 +6,7 @@ Pull Requests
  - has no or minimal accidental changes - please open a separate PR, both PRs will be merged faster while much easier to review _one thing_ at a time
  - has comments on the tricky / controversial parts of the code to guide reviewers
  - mechanical refactoring should always be a separate PR and should be explained as such
- - when merged, the description is moved as commit message; this way not only revievers, but everyone in the future will be able to benefit from it
+ - when merged, the description is moved as commit message; this way not only revievers, but everyone in the future will benefit from it
 
 **Etiquette:**
  - the reviewer should resolve the conversation when satisfied; trivial matters such as formatting, typos, etc can be auto closed by the PR author
